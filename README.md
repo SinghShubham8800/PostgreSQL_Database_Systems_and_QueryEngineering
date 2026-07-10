@@ -1,4 +1,4 @@
-# Relational Database Design & Query Engineering
+# PostgreSQL Database Design & SQL Query Optimization
 A specialized repository focusing on advanced SQL design, database normalization, and high-performance query engineering.
 
 🚀 Overview
