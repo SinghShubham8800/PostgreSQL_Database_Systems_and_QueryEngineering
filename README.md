@@ -18,7 +18,7 @@ This project demonstrates the implementation of relational database systems, ran
 📁 Getting Started
 1. Clone
 Bash
-git clone https://github.com/SinghShubham8800/PostgreSQL_Database_Design---SQLQueryOptimization.git
+git clone https://github.com/SinghShubham8800/Relational_Database_Design_Using_PostgreSQL.git
 cd Relational-Database-Design-and-Query-Engineering
 2. Connect & Execute
 SQL
